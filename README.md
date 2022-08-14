@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solomon Olatunji</h1>
-<h3 align="center">That Developer, I build Web, Mobile apps and Game</h3>
+<h3 align="center">That Developer, I build Web, Mobile apps and Smart contracts</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrealsolomon&label=Profile%20views&color=0e75b6&style=flat" alt="devrealsolomon" /> </p>
 
