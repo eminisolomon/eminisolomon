@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [my startup(secret)](null)
 
-- 👯 I’m looking to collaborate on [anything](null)
-
 - 👨‍💻 All of my projects are available at [solomonolatunji.com](solomonolatunji.com)
 
 - 💬 Ask me about **PHP, NodeJS, FLutter, Python**
