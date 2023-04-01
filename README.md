@@ -9,28 +9,6 @@
 
 <br/>
 
-
-<table>
-    <tr>
-        <th>My Blog</th>
-        <th>My Website</th>
-        <th>My CV</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://realsolomon.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
-        </td>
-        <td>
-            <a href="https://devrealsolomon.github.io/">🌐</a>
-        </td>
-        <td>
-            <a href="https://devrealsolomon.github.io/online-resume">📃</a>
-        </td>
-    </tr>
-</table>
-
-
-
 ### Contact me:
 
 <a href="https://twitter.com/devrealsolomon"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
@@ -53,10 +31,8 @@
         <td>Programming/Backend</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/spring/spring-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/groovy/groovy-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40"/></a>
         </td>
@@ -67,11 +43,8 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redux/redux-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/yeoman/yeoman-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jest/jest-plain.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/webpack/webpack-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -80,11 +53,8 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redis/redis-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/neo4j/neo4j-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -95,18 +65,6 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/atom/atom-original.svg" width="40" height="40"/></a>
             <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
-        </td>
-    </tr>
-    <tr>
-        <td>Others/Misc</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gradle/gradle-plain.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/tomcat/tomcat-original.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src=""/></a> -->
         </td>
     </tr>
 </table>
