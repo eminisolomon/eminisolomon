@@ -59,7 +59,7 @@
         <td>Mobile App</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/flutter/flutter-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/reactnative/reactnative-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react-native/reac-tnative-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/kotlin/kotlin-original.svg" width="40" height="40"/></a>
             <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
         </td>
