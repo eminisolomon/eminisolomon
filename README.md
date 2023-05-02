@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
 - 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
 - 💬 Ask me about __CI/CD, Docker, Software Dev...__
-- ⚡ Fun fact: Having grew up in Nigeria, I've never traveled Outside
+- ⚡ Fun fact: I was born and raised in Nigerian.
 
 <br/>
 
