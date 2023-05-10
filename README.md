@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Solomon Olatunji
+# Hello 👋, I'm Solomon Olatunji
 
 ### Software/Cloud Engineer
 
