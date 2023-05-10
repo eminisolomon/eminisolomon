@@ -43,7 +43,7 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vuejs/vuejs-original.svg" width="40" height="40"/></a>
         </td>
-    </tr>om
+    </tr>
     <tr>
         <td>Databases/Datastores</td>
         <td>
@@ -76,10 +76,3 @@
 ### Support my Work
 <br/>
 <a href="https://www.buymeacoffee.com/realsolomon"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
-
-
-<br />
-
-### My GitHub Stats
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrealsolomon&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
