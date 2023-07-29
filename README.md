@@ -5,10 +5,10 @@ I'm a Backend Engineer with mixed interest in Network/Cloud Engineering.
 <h3 align="center">I build things from scratch that works.. Eventually!</h3>
 
 <p align="center">
-    <a href="https://sofwancoder.com">
+    <a href="https://solomonolatunji.com">
       <img src="https://komarev.com/ghpvc/?username=SofwanCoder&color=blue&label=Profile%20Views&style=for-the-badge"/>
     </a>
-    <a href="https://sofwancoder.com">
+    <a href="https://solomonolatunji.com">
       <img src="https://img.shields.io/github/followers/OlaOlatunji?label=GitHub%20Followers&style=for-the-badge"/>
     </a>
 </p>
@@ -22,8 +22,6 @@ I'm a Backend Engineer with mixed interest in Network/Cloud Engineering.
 ## ⚡ Github Stats
 
 ![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=OlaOlatunji&show_icons=true&count_private=true&custom_title=Ola's+GitHub+Stats)
-![Vinay's Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=realsolomon)
-
 
 <br/>
 
