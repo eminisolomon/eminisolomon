@@ -21,8 +21,8 @@ I'm a Backend Engineer with mixed interest in Network/Cloud Engineering.
 
 ## ⚡ Github Stats
 
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=OlaOlatunji&show_icons=true&count_private=true&custom_title=Sofwan's+GitHub+Stats)
-![Vinay's Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=OlaOlatunji)
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=OlaOlatunji&show_icons=true&count_private=true&custom_title=Ola's+GitHub+Stats)
+![Vinay's Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=realsolomon)
 
 
 <br/>
