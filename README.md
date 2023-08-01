@@ -6,7 +6,7 @@ I'm a Backend Engineer with mixed interest in Network/Cloud Engineering.
 
 <p align="center">
     <a href="https://solomonolatunji.com">
-      <img src="https://komarev.com/ghpvc/?username=SofwanCoder&color=blue&label=Profile%20Views&style=for-the-badge"/>
+      <img src="https://komarev.com/ghpvc/?username=OlaOlatunji&color=blue&label=Profile%20Views&style=for-the-badge"/>
     </a>
     <a href="https://solomonolatunji.com">
       <img src="https://img.shields.io/github/followers/OlaOlatunji?label=GitHub%20Followers&style=for-the-badge"/>
@@ -17,11 +17,6 @@ I'm a Backend Engineer with mixed interest in Network/Cloud Engineering.
 - 🤔 I’m looking for help with "Money"
 - 💬 Ask me questions about **Backend Engineering | System Design**
 - ⚡ Fun fact: "🌱"
-
-
-## ⚡ Github Stats
-
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=OlaOlatunji&show_icons=true&count_private=true&custom_title=Ola's+GitHub+Stats)
 
 <br/>
 
