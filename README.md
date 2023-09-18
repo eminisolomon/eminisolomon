@@ -6,10 +6,10 @@ I'm a Backend Engineer with mixed interest in Network/Cloud Engineering.
 
 <p align="center">
     <a href="https://solomonolatunji.com">
-      <img src="https://komarev.com/ghpvc/?username=OlaOlatunji&color=blue&label=Profile%20Views&style=for-the-badge"/>
+      <img src="https://komarev.com/ghpvc/?username=solomonolatunji&color=blue&label=Profile%20Views&style=for-the-badge"/>
     </a>
     <a href="https://solomonolatunji.com">
-      <img src="https://img.shields.io/github/followers/OlaOlatunji?label=GitHub%20Followers&style=for-the-badge"/>
+      <img src="https://img.shields.io/github/followers/solomonolatunji?label=GitHub%20Followers&style=for-the-badge"/>
     </a>
 </p>
 
