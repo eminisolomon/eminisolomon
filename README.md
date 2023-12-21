@@ -6,10 +6,10 @@ I'm a Backend Engineer with mixed interest in Network/Cloud Engineering.
 
 <p align="center">
     <a href="https://solomonolatunji.com">
-      <img src="https://komarev.com/ghpvc/?username=solomonolatunji&color=blue&label=Profile%20Views&style=for-the-badge"/>
+      <img src="https://komarev.com/ghpvc/?username=eminisolomon&color=blue&label=Profile%20Views&style=for-the-badge"/>
     </a>
     <a href="https://solomonolatunji.com">
-      <img src="https://img.shields.io/github/followers/solomonolatunji?label=GitHub%20Followers&style=for-the-badge"/>
+      <img src="https://img.shields.io/github/followers/eminisolomon?label=GitHub%20Followers&style=for-the-badge"/>
     </a>
 </p>
 
@@ -22,7 +22,7 @@ I'm a Backend Engineer with mixed interest in Network/Cloud Engineering.
 
 ### Contact me:
 
-<a href="https://twitter.com/devrealsolomon"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
+<a href="https://twitter.com/eminisolomon"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/realsolomon/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 <a href="https://www.pinterest.co.uk/realsolomon"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
 
