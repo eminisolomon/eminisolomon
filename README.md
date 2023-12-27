@@ -4,15 +4,6 @@ I'm a Backend Engineer with mixed interest in Network/Cloud Engineering.
 </h3>
 <h3 align="center">I build things from scratch that works.. Eventually!</h3>
 
-<p align="center">
-    <a href="https://solomonolatunji.com">
-      <img src="https://komarev.com/ghpvc/?username=eminisolomon&color=blue&label=Profile%20Views&style=for-the-badge"/>
-    </a>
-    <a href="https://solomonolatunji.com">
-      <img src="https://img.shields.io/github/followers/eminisolomon?label=GitHub%20Followers&style=for-the-badge"/>
-    </a>
-</p>
-
 - 👯 I’m looking to collaborate on "Software Engineering Role"
 - 🤔 I’m looking for help with "Money"
 - 💬 Ask me questions about **Backend Engineering | System Design**
