@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Solomon </h1>
+<h1 align="center"> Hi 👋, I'm Solomon Olatunji</h1>
 <h3 align="center">
 I'm a Backend Engineer with mixed interest in Network/Cloud Engineering.
 </h3>
@@ -77,4 +77,4 @@ I'm a Backend Engineer with mixed interest in Network/Cloud Engineering.
 
 ### Support my Work
 <br/>
-<a href="https://www.buymeacoffee.com/realsolomon"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
+<a href="https://www.buymeacoffee.com/eminisolomon"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
