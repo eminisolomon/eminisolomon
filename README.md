@@ -7,7 +7,7 @@ I'm a Backend Engineer with mixed interest in Network/Cloud Engineering.
 - 👯 I’m looking to collaborate on "Software Engineering Role"
 - 🤔 I’m looking for help with "Money"
 - 💬 Ask me questions about **Backend Engineering | System Design**
-- ⚡ Fun fact: "🌱"
+- ⚡ Fun fact: "Nothing to see here 😂🌱"
 
 <br/>
 
