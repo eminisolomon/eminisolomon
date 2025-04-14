@@ -1,89 +1,95 @@
 <h1 align="center">👋 Hello, I'm Solomon Olatunji</h1>
-<h3 align="center">Backend Engineer with a passion for Network & Cloud Engineering</h3>
+<h3 align="center">Backend Engineer | Cloud Architect | System Design Enthusiast</h3>
 
 <p align="center">
-  <em>Building robust systems that work... eventually! 🚀</em>
+  <em>Building scalable, resilient systems that power the digital world 🌐</em>
 </p>
 
 <p align="center">
   <a href="https://twitter.com/eminisolomon"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://www.linkedin.com/in/realsolomon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/eminisolomon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.pinterest.co.uk/realsolomon"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
 </p>
 
+---
+
 ## 👨‍💻 About Me
 
-- 💼 Backend Engineer specializing in scalable architecture & system design
-- ☁️ Cloud & Network Engineering enthusiast
-- 👯 Open to collaborate on **Software Engineering projects**
-- 💬 Ask me about **Backend Engineering | System Design | API Development**
-- 🤔 Currently seeking: **New opportunities & funding for projects**
-- ⚡ Fun fact: "Nothing to see here 😂🌱"
+I'm a passionate backend engineer with expertise in designing and implementing high-performance distributed systems. My journey in tech has taken me through various domains, allowing me to develop a holistic understanding of software architecture and infrastructure.
+
+- 🔭 Currently working on: **Scalable microservices architecture**
+- 🌱 Currently learning: **Advanced Kubernetes patterns**
+- 👯 Looking to collaborate on: **Open-source infrastructure projects**
+- 💬 Ask me about: **System design, API development, or cloud optimization**
+- ⚡ Fun fact: I once debugged a production issue in my dreams (and it worked!)
+
+---
 
 ## 🛠️ Tech Stack
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 🚀 Core Competencies
+| Category          | Technologies                                                                 |
+|-------------------|-----------------------------------------------------------------------------|
+| **Languages**     | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) |
+| **Backend**       | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) |
+| **Frontend**      | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white) |
+| **Databases**     | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apache-cassandra&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |
+| **DevOps**        | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) |
 
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+---
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-
-### DevOps & CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-
-### Development Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)
-
-## 📊 GitHub Stats
+## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eminisolomon&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eminisolomon&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eminisolomon&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
-## 🌱 Current Focus
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminisolomon&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/>
+</p>
 
-I'm currently expanding my knowledge in:
-- Microservices architecture
-- Kubernetes orchestration
-- Serverless technologies
-- Cloud infrastructure automation
+---
 
-## 💼 Looking For
+## 🌱 Current Focus Areas
 
-- Remote backend engineering opportunities
-- Interesting collaboration projects
-- Mentorship connections
+- **Cloud Native Architecture**: Building systems optimized for cloud environments
+- **Performance Engineering**: Optimizing backend systems for maximum throughput
+- **Observability**: Implementing comprehensive monitoring solutions
+- **Security**: Hardening systems against modern threats
 
-## ☕ Support My Work
+---
+
+## 💼 Professional Interests
+
+- Remote backend engineering roles
+- Cloud architecture consulting
+- Technical mentorship opportunities
+- Open-source contributions
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://calendly.com/your-link"><img src="https://img.shields.io/badge/Schedule-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule Meeting"/></a>
+</p>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/eminisolomon">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=eminisolomon&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" height="50px">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Support my work&emoji=☕&slug=eminisolomon&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" height="50px">
   </a>
 </p>
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>"First, solve the problem. Then, write the code." - John Johnson</i>
 </p>
