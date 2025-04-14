@@ -80,12 +80,8 @@ I'm a passionate backend engineer with expertise in designing and implementing h
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eminisolomon&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eminisolomon&theme=radical" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminisolomon&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eminisolomon&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminisolomon&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="45%" />
 </div>
 
 ---
