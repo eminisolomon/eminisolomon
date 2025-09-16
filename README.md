@@ -4,10 +4,10 @@
 *Building scalable systems for the digital world 🌐*
 
 <p align="center">
-  <a href="https://twitter.com/eminisolomon"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/realsolomon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://discord.com/users/879699712150757416"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://t.me/eminisolomon"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://twitter.com/eminisolomon"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label&color=1DA1F2" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/realsolomon/"><img src="https://badgen.net/badge/icon/linkedin?icon=linkedin&label&color=0077B5" alt="LinkedIn"/></a>
+  <a href="https://discord.com/users/879699712150757416"><img src="https://badgen.net/badge/icon/discord?icon=discord&label&color=5865F2" alt="Discord"/></a>
+  <a href="https://t.me/eminisolomon"><img src="https://badgen.net/badge/icon/telegram?icon=telegram&label&color=26A5E4" alt="Telegram"/></a>
 </p>
 
 ---
@@ -33,8 +33,8 @@ I'm a backend engineer passionate about building high-performance distributed sy
 
 ## 📫 Connect
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://calendly.com/realsolomon/30min"><img src="https://img.shields.io/badge/Schedule-4285F4?style=flat-square&logo=google-calendar&logoColor=white" alt="Schedule"/></a>
+  <a href="mailto:me@solomonolatunji.com"><img src="https://badgen.net/badge/icon/email?icon=mail&label&color=D14836" alt="Email"/></a>
+  <a href="https://calendly.com/realsolomon/30min"><img src="https://badgen.net/badge/icon/schedule?icon=calendar&label&color=4285F4" alt="Schedule"/></a>
 </p>
 
 <p align="center">
