@@ -2,7 +2,7 @@
 
 # Solomon Olatunji
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+Cloud+Architect;Architecting+Scalable+Systems)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+Cloud+Architect;Architecting+Scalable+Systems)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eminisolomon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realsolomon/)
