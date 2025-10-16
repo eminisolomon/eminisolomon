@@ -1,6 +1,13 @@
 <div align="center">
 
-![Solomon Olatunji](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=600&lines=Solomon+Olatunji;Full-Stack+Engineer+%7C+Cloud+Architect;Architecting+Scalable+Systems)
+# Solomon Olatunji
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+Cloud+Architect;Architecting+Scalable+Systems)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eminisolomon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realsolomon/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/879699712150757416)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/eminisolomon)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=eminisolomon&color=00FFDD)
 
@@ -79,14 +86,10 @@ Passionate about crafting high-performance distributed systems and cloud-native 
 
 ---
 
-## 📬 Connect with Me
+## 📬 Get in Touch
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eminisolomon)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realsolomon/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/879699712150757416)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eminisolomon)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@solomonolatunji.com)
 [![Schedule Call](https://img.shields.io/badge/Schedule-4285F4?style=for-the-badge&logo=calendar&logoColor=white)](https://calendly.com/realsolomon/30min)
 
