@@ -1,12 +1,8 @@
 <div align="center">
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+Cloud+Architect;Architecting+Scalable+Systems)
+
 <div align="center">
-
-# Solomon Olatunji
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer+%7C+Cloud+Architect;Architecting+Scalable+Systems)
-
-</div>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eminisolomon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realsolomon/)
@@ -14,6 +10,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/eminisolomon)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=eminisolomon&color=00FFDD)
+
+</div>
 
 </div>
 
@@ -54,8 +52,11 @@ Passionate about crafting high-performance distributed systems and cloud-native 
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
